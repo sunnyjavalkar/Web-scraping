@@ -1,0 +1,739 @@
+﻿Title,Prices
+ Rice,DMart 109.00
+ Poha,DMart 157.00
+ Kurmura,DMart 130.00
+ Grocery ,DMart 162.00
+ Chana Dal,DMart 85.00
+ Moong Dal,DMart 75.00
+ Tur Dal,DMart 80.00
+ Urad Dal,DMart 102.00
+ Masoor Dal,DMart 78.00
+ Daliya,DMart 39.00
+ Mix Dal,DMart 52.00
+ Rajma,DMart 56.00
+ Chowli,DMart 44.00
+ Soya Products,DMart 88.00
+ Kabuli Chana,DMart 49.00
+ Chana,DMart 133.00
+ Urad,DMart 66.00
+ Moong,DMart 51.00
+ Masoor,DMart 68.00
+ Vatana,DMart 167.00
+ Other Whole Pulses,DMart 77.00
+ Kulith,DMart 67.00
+ Groundnut,DMart 75.00
+ Almonds,DMart 55.00
+ Cashews,DMart 51.00
+ Pista,DMart 43.00
+ Dates,DMart 62.00
+ Raisins,DMart 88.00
+ Walnuts,DMart 58.00
+ Apricot,DMart 26.00
+ Mixed Dryfruits,DMart 51.00
+ Charoli,DMart 66.00
+ Makhana,DMart 52.00
+ Anjeer,DMart 32.00
+ Sunflower Oil,DMart 71.00
+ Blended Oil,DMart 223.00
+ Rice Bran Oil,DMart 10.00
+ Groundnut Oil,DMart 64.00
+ Olive Oil,DMart 91.00
+ Mustard Oil,DMart 64.00
+ Other Oils,DMart 109.01
+ All in Ghee & Vanaspati,DMart 157.01
+ Ghee,DMart 130.01
+ Vanaspati,DMart 162.01
+ All in Flours & Grains,DMart 85.01
+ Atta,DMart 75.01
+ Grains,DMart 80.01
+ Other Flours,DMart 102.01
+ All in Rice & Rice Products,DMart 78.01
+ Basmati Rice,DMart 39.01
+ Kolam Rice,DMart 52.01
+ Brown Rice,DMart 56.01
+ Poha,DMart 44.01
+ Kurmura,DMart 88.01
+ Other Rice,DMart 49.01
+ All in Masala & Spices,DMart 133.01
+ Powdered Spices,DMart 66.01
+ Whole Spices,DMart 51.01
+ Cooking Pastes,DMart 68.01
+ Herbs & Seasonings,DMart 167.01
+ Ready Mix Masalas,DMart 77.01
+ Salt,DMart 67.01
+ Sugar,DMart 75.01
+ Jaggery,DMart 55.01
+ Tea,DMart 51.01
+ Tea Bags,DMart 43.01
+ Green Tea,DMart 62.01
+ Coffee,DMart 88.01
+ Health Drinks,DMart 58.01
+ Soft Drinks,DMart 26.01
+ Juices,DMart 51.01
+ Energy Drinks,DMart 66.01
+ Squash & Syrups,DMart 52.01
+ Concentrates,DMart 32.01
+ Soda & Water,DMart 71.01
+ Butter,DMart 223.01
+ Milk,DMart 10.01
+ Cheese,DMart 64.01
+ Dairy Products,DMart 91.01
+ Dahi,DMart 64.01
+ Shrikhand,DMart 109.02
+"Biscuits & CookiesÂ (72)
+",DMart 157.02
+ All in Biscuits & Cookies,DMart 130.02
+ Cookies,DMart 162.02
+ Glucose Biscuits,DMart 85.02
+ Marie Biscuits,DMart 75.02
+ Salty Biscuits,DMart 80.02
+ Cream Biscuits,DMart 102.02
+ Digestive Biscuits,DMart 78.02
+ Khari & Toasts,DMart 39.02
+ Wafer Biscuits,DMart 52.02
+ Health Biscuits,DMart 56.02
+ Sev & Mixtures,DMart 44.02
+ Chips & Wafers,DMart 88.02
+ Namkeens,DMart 49.02
+ Other Snacks,DMart 133.02
+ Popcorn,DMart 66.02
+ ,DMart 51.02
+"Breakfast CerealsÂ (32)
+",DMart 68.02
+ All in Breakfast Cereals,DMart 167.02
+ Flakes,DMart 77.02
+ Oats,DMart 67.02
+ Muesli,DMart 75.02
+ChocolatesÂ (31),DMart 55.02
+ All in Ketchup & Sauce,DMart 51.02
+ Ketchup,DMart 43.02
+ Sauce,DMart 62.02
+ Chutney,DMart 88.02
+ Vinegar,DMart 58.02
+ All in Jams & Spreads,DMart 26.02
+ Jams,DMart 51.02
+ Spreads,DMart 66.02
+ Honey,DMart 52.02
+ Mayonnaise,DMart 32.02
+ Dips & Dressings,DMart 71.02
+ All in Pasta & Noodles,DMart 223.02
+ Instant Noodles,DMart 10.02
+ Hakka Noodles,DMart 64.02
+ Pasta,DMart 91.02
+ Vermicelli,DMart 64.02
+"Ready To CookÂ (64)
+",DMart 109.03
+ All in Ready To Cook,DMart 157.03
+ Papad,DMart 130.03
+ Ready Mix,DMart 162.03
+ Popcorn,DMart 85.03
+"PicklesÂ (11)
+",DMart 75.03
+ All in Pickles,DMart 80.03
+ Mango Pickles,DMart 102.03
+ Mixed Pickles,DMart 78.03
+ Chilli Pickles,DMart 39.03
+ Other Pickles,DMart 52.03
+Health FoodÂ (31),DMart 56.03
+ Fruits & Vegetables ,DMart 44.03
+Fresh FruitsÂ (3),DMart 88.03
+VegetablesÂ (15),DMart 133.03
+ Home & Kitchen ,DMart 66.03
+"Detergent & Fabric CareÂ (44)
+",DMart 51.03
+ All in Detergent & Fabric Care,DMart 68.03
+ Fabric Care,DMart 167.03
+ Detergent Powder,DMart 77.03
+ Detergent Bar,DMart 67.03
+ Liquid Detergent,DMart 75.03
+"CleanersÂ (37)
+",DMart 55.03
+ All in Cleaners,DMart 51.03
+ Floor Cleaners,DMart 43.03
+ Other Cleaners,DMart 62.03
+ Toilet Cleaners,DMart 88.03
+ ,DMart 58.03
+Utensil CleanersÂ (26),DMart 26.03
+ ,DMart 51.03
+"Freshener & RepellentsÂ (49)
+",DMart 66.03
+ All in Freshener & Repellents,DMart 52.03
+ Air Fresheners,DMart 32.03
+ Repellents,DMart 71.03
+ ,DMart 223.03
+"Tissue Paper & NapkinsÂ (32)
+",DMart 10.03
+ All in Tissue Paper & Napkins,DMart 64.03
+ Aluminium Foils,DMart 91.03
+ Face Tissues,DMart 64.03
+ Garbage Bags,DMart 109.04
+ Kitchen Tissues,DMart 157.04
+ Tissue Paper & Napkins,DMart 130.04
+ Toilet Paper,DMart 162.04
+ ,DMart 85.04
+"Cleaning ToolsÂ (38)
+",DMart 75.04
+ All in Cleaning Tools,DMart 80.04
+ Brooms & Dust Pans,DMart 102.04
+ Brush & Scrub,DMart 78.04
+ Duster,DMart 39.04
+ Mops & Refills,DMart 52.04
+ Other Cleaning Tools,DMart 56.04
+ ,DMart 44.04
+Kitchen ToolsÂ (16),DMart 88.04
+ ,DMart 49.04
+"Bed & BathÂ (6)
+",DMart 133.04
+ All in Bed & Bath,DMart 66.04
+ Hangers,DMart 51.04
+ ,DMart 68.04
+"Cookware & ServewareÂ (135)
+",DMart 167.04
+ All in Cookware & Serveware,DMart 77.04
+ Cutlery,DMart 67.04
+ Crockery Sets,DMart 75.04
+ Cooker,DMart 55.04
+ Kadai / Handi / Pans,DMart 51.04
+ Lunch Box,DMart 43.04
+ Bottles,DMart 62.04
+ Flasks,DMart 88.04
+ Serveware,DMart 58.04
+ Cookware Sets,DMart 26.04
+ ,DMart 51.04
+"Pooja NeedsÂ (19)
+",DMart 66.04
+ All in Pooja Needs,DMart 52.04
+ Camphor & Kapur,DMart 32.04
+ Agarbatti,DMart 71.04
+ Pooja Items,DMart 223.04
+ ,DMart 10.04
+"Home UtilityÂ (31)
+",DMart 64.04
+ All in Home Utility,DMart 91.04
+ Hardware,DMart 64.04
+ Glue & Adhesives,DMart 109.05
+ Home Safety,DMart 157.05
+ Lights & Batteries,DMart 130.05
+ ,DMart 162.05
+Pet SuppliesÂ (11),DMart 85.05
+ ,DMart 75.05
+Shoe CareÂ (3),DMart 80.05
+ Personal Care ,DMart 102.05
+"Skin CareÂ (126)
+",DMart 78.05
+ All in Skin Care,DMart 39.05
+ Soaps,DMart 52.05
+ Creams & Lotions,DMart 56.05
+ Face Care,DMart 44.05
+ Talcum Powder,DMart 88.05
+ Shower Gels,DMart 49.05
+ Sunscreen,DMart 133.05
+"Face CareÂ (40)
+",DMart 66.05
+ All in Face Care,DMart 51.05
+ Face Wash,DMart 68.05
+ Face Scrub,DMart 167.05
+ Face Cream,DMart 77.05
+ Face Tissues,DMart 67.05
+ Face Mask,DMart 75.05
+ ,DMart 55.05
+ ,DMart 51.05
+"Hair CareÂ (90)
+",DMart 43.05
+ All in Hair Care,DMart 62.05
+ Hair Oil,DMart 88.05
+ Hair Shampoos,DMart 58.05
+ Hair Conditioners,DMart 26.05
+ Hair Colour,DMart 51.05
+ Hair Gel & Cream,DMart 66.05
+ Hair Appliances,DMart 52.05
+ ,DMart 32.05
+ ,DMart 71.05
+"Oral CareÂ (33)
+",DMart 223.05
+ All in Oral Care,DMart 10.05
+ Toothpaste,DMart 64.05
+ Mouthwash,DMart 91.05
+ Toothbrush,DMart 64.05
+ ,DMart 109.06
+ ,DMart 157.06
+Sanitary NapkinsÂ (12),DMart 130.06
+ ,DMart 162.06
+ ,DMart 85.06
+"Deos & PerfumesÂ (51)
+",DMart 75.06
+ All in Deos & Perfumes,DMart 80.06
+ Men's Deos & Perfumes,DMart 102.06
+ Women's Deos,DMart 78.06
+ ,DMart 39.06
+ ,DMart 52.06
+"Shaving NeedsÂ (25)
+",DMart 56.06
+ All in Shaving Needs,DMart 44.06
+ Men Razor & Blade,DMart 88.06
+ Shaving Foam,DMart 49.06
+ Women Razor,DMart 133.06
+ Shaving Cream & Brush,DMart 66.06
+ ,DMart 51.06
+ ,DMart 68.06
+"Baby CareÂ (20)
+",DMart 167.06
+ All in Baby Care,DMart 77.06
+ Baby Hair Oil,DMart 67.06
+ Baby Lotion,DMart 75.06
+ Baby Massage Oil,DMart 55.06
+ Baby Powder,DMart 51.06
+ Baby Shampoos,DMart 43.06
+ Baby Soaps,DMart 62.06
+ Cleansers,DMart 88.06
+ ,DMart 58.06
+ ,DMart 26.06
+"Diapers & WipesÂ (23)
+",DMart 51.06
+ All in Diapers & Wipes,DMart 66.06
+ Baby Wipes,DMart 52.06
+ Dry Sheets,DMart 32.06
+ Diapers,DMart 71.06
+ Adult Diapers,DMart 223.06
+ ,DMart 10.06
+ ,DMart 64.06
+"Health & WellnessÂ (71)
+",DMart 91.06
+ All in Health & Wellness,DMart 64.06
+ Vitamins & Supplements,DMart 109.07
+ Antiseptics,DMart 157.07
+ Health Food,DMart 130.07
+ Digestive Care,DMart 162.07
+ Cold Relief,DMart 85.07
+ Pain Killers,DMart 75.07
+ Ear Care,DMart 80.07
+ Eye Care,DMart 102.07
+ Contraceptives,DMart 78.07
+ First Aid,DMart 39.07
+Beauty ProductsÂ (9),DMart 52.07
+ Baby & Kids ,DMart 56.07
+ Baby Wipes,DMart 44.07
+ All in Baby Care,DMart 88.07
+ Baby Massage Oil,DMart 49.07
+ All in School Needs,DMart 133.07
+ Stationery Sets,DMart 66.07
+ Immersion Heater,DMart 51.07
+ Hardware,DMart 68.07
+ ,DMart 167.07
+"Kitchen AppliancesÂ (19)
+",DMart 77.07
+ All in Kitchen Appliances,DMart 67.07
+ Blenders & Kettles,DMart 75.07
+ Toasters & Induction Cooktops,DMart 55.07
+Eye CareÂ (1),DMart 51.07
+ ,DMart 43.07
+"Household NeedsÂ (119)
+",DMart 62.07
+ All in Household Needs,DMart 88.07
+ Detergent & Fabric Care,DMart 58.07
+ Freshener & Repellents,DMart 26.07
+ Utensil Cleaners,DMart 51.07
+ ,DMart 66.07
+ All in Monthly Essentials,DMart 52.07
+ Cooking Oil & Ghee,DMart 32.07
+ Rice & Rice Products,DMart 71.07
+ Noodles,DMart 223.07
+ Salt & Sugar,DMart 10.07
+ Detergents,DMart 64.07
+ Kitchen Needs,DMart 91.07
+ Personal Care,DMart 64.07
+ Sanitary Napkins,DMart 109.08
+ ,DMart 157.08
+ ,DMart 130.08
+UmbrellaÂ (20),DMart 162.08
+ ,DMart 85.08
+"Personal Care ProductsÂ (228)
+",DMart 75.08
+ All in Personal Care Products,DMart 80.08
+ Hair Care,DMart 102.08
+ Skin Care,DMart 78.08
+ Sanitary Napkins,DMart 39.08
+ ,DMart 52.08
+"Clothing AccessoriesÂ (34)
+",DMart 56.08
+ All in Clothing Accessories,DMart 44.08
+ Handkerchiefs,DMart 88.08
+ Socks,DMart 49.08
+ Vests,DMart 133.08
+ Briefs,DMart 66.08
+ ,DMart 51.08
+(View All),DMart 68.08
+DMart Grocery,DMart 167.08
+Value Packs,DMart 77.08
+Umbrella,DMart 67.08
+Cookware & Serveware,DMart 75.08
+Home Appliances,DMart 55.08
+Kitchen Appliances,DMart 51.08
+X,DMart 43.08
+X,DMart 62.08
+X,DMart 88.08
+No,DMart 58.08
+Yes,DMart 26.08
+X,DMart 51.08
+Home,DMart 66.08
+Show Advanced Filter,DMart 52.08
+Categories in DMart Grocery,DMart 32.08
+All DMart Grocery Products,DMart 71.08
+Dals & Pulses,DMart 223.08
+Salt / Sugar / Jaggery,DMart 10.08
+Rice & Rice Products,DMart 64.08
+Dry Fruits,DMart 91.08
+Masala & Spices,DMart 64.08
+Flours & Grains,DMart 109.09
+Cooking Oil & Ghee,DMart 157.09
+Tur Dal Latur : 1 kg,DMart 130.09
+"
+",DMart 162.09
+ Add to Cart,DMart 85.09
+"
+
+0
+",DMart 75.09
+Moong Dal : 1 kg,DMart 80.09
+"
+",DMart 102.09
+ Add to Cart,DMart 78.09
+"
+
+0
+",DMart 39.09
+Tur Dal Premium Gujarat : 1 kg,DMart 52.09
+"
+",DMart 56.09
+ Add to Cart,DMart 44.09
+"
+
+0
+",DMart 88.09
+Moong Whole : 1 kg,DMart 49.09
+"
+",DMart 133.09
+ Add to Cart,DMart 66.09
+"
+
+0
+",DMart 51.09
+Premia Groundnut : 500 gms,DMart 68.09
+"
+",DMart 167.09
+ Add to Cart,DMart 77.09
+"
+
+0
+",DMart 67.09
+Chana Dal : 1 kg,DMart 75.09
+"
+",DMart 55.09
+ Add to Cart,DMart 51.09
+"
+
+0
+",DMart 43.09
+Udid (Urad) Dal : 500 gms,DMart 62.09
+"
+",DMart 88.09
+ Add to Cart,DMart 58.09
+"
+
+0
+",DMart 26.09
+Masoor Dal : 1 kg,DMart 51.09
+"
+",DMart 66.09
+ Add to Cart,DMart 52.09
+"
+
+0
+",DMart 32.09
+Moong Dal Chilti : 500 gms,DMart 71.09
+"
+",DMart 223.09
+ Add to Cart,DMart 10.09
+"
+
+0
+",DMart 64.09
+Chana Small : 500 gms,DMart 91.09
+"
+",DMart 64.09
+ Add to Cart,DMart 109.10
+"
+
+0
+",DMart 157.10
+Matki : 500 gms,DMart 130.10
+"
+",DMart 162.10
+ Add to Cart,DMart 85.10
+"
+
+0
+",DMart 75.10
+Vatana White : 500 gms,DMart 80.10
+"
+",DMart 102.10
+ Add to Cart,DMart 78.10
+"
+
+0
+",DMart 39.10
+Masoor Whole : 500 gms,DMart 52.10
+"
+",DMart 56.10
+ Add to Cart,DMart 44.10
+"
+
+0
+",DMart 88.10
+Chowli Small : 500 gms,DMart 49.10
+"
+",DMart 133.10
+ Add to Cart,DMart 66.10
+"
+
+0
+",DMart 51.10
+Chana Big : 500 gms,DMart 68.10
+"
+",DMart 167.10
+ Add to Cart,DMart 77.10
+"
+
+0
+",DMart 67.10
+DMart Healthy Choice Unpolished Toor Dal : 1 kg,DMart 75.10
+"
+",DMart 55.10
+ Add to Cart,DMart 51.10
+"
+
+0
+",DMart 43.10
+Mix Dal : 500 gms,DMart 62.10
+"
+",DMart 88.10
+ Add to Cart,DMart 58.10
+"
+
+0
+",DMart 26.10
+Chowli Big : 500 gms,DMart 51.10
+"
+",DMart 66.10
+ Add to Cart,DMart 52.10
+"
+
+0
+",DMart 32.10
+Udid (Urad) Black Whole : 500 gms,DMart 71.10
+"
+",DMart 223.10
+ Add to Cart,DMart 10.10
+"
+
+0
+",DMart 64.10
+DMart Healthy Choice Unpolished Moong Dal : 1 kg,DMart 91.10
+"
+",DMart 64.10
+ Add to Cart,DMart 109.11
+"
+
+0
+",DMart 157.11
+Udid (Urad) Whole : 500 gms,DMart 130.11
+"
+",DMart 162.11
+ Add to Cart,DMart 85.11
+"
+
+0
+",DMart 75.11
+Mixed Pulses For Sprout : 500 gms,DMart 80.11
+"
+",DMart 102.11
+ Add to Cart,DMart 78.11
+"
+
+0
+",DMart 39.11
+Udid (Urad) Dal Chilti : 500 gms,DMart 52.11
+"
+",DMart 56.11
+ Add to Cart,DMart 44.11
+"
+
+0
+",DMart 88.11
+Chowli Premium : 500 gms,DMart 49.11
+"
+",DMart 133.11
+ Add to Cart,DMart 66.11
+"
+
+0
+",DMart 51.11
+Chana Green : 500 gms,DMart 68.11
+"
+",DMart 167.11
+ Add to Cart,DMart 77.11
+"
+
+0
+",DMart 67.11
+Vatana Black : 500 gms,DMart 75.11
+"
+",DMart 55.11
+ Add to Cart,DMart 51.11
+"
+
+0
+",DMart 43.11
+"Out of Stock!
+                ",DMart 62.11
+DMart Healthy Choice Unpolished Chana Dal : 1 kg,DMart 88.11
+"
+",DMart 58.11
+ Add to Cart,DMart 26.11
+"
+
+0
+",DMart 51.11
+Chowli Red : 500 gms,DMart 66.11
+"
+",DMart 52.11
+ Add to Cart,DMart 32.11
+"
+
+0
+",DMart 71.11
+Premia Soyawadi : 200 gms,DMart 223.11
+"
+",DMart 10.11
+ Add to Cart,DMart 64.11
+"
+
+0
+",DMart 91.11
+Dal - Rice Mix : 500 gms,DMart 64.11
+"
+",DMart 109.12
+ Add to Cart,DMart 157.12
+"
+
+0
+",DMart 130.12
+Rajma Kashmiri : 500 gms,DMart 162.12
+"
+",DMart 85.12
+ Add to Cart,DMart 75.12
+"
+
+0
+",DMart 80.12
+Daliya : 500 gms,DMart 102.12
+"
+",DMart 78.12
+ Add to Cart,DMart 39.12
+"
+
+0
+",DMart 52.12
+Kulith (Horse Gram) : 500 gms,DMart 56.12
+"
+",DMart 44.12
+ Add to Cart,DMart 88.12
+"
+
+0
+",DMart 49.12
+Wal Papdi : 500 gms,DMart 133.12
+"
+",DMart 66.12
+ Add to Cart,DMart 51.12
+"
+
+0
+",DMart 68.12
+Premia Sugar : 5 kgs,DMart 167.12
+"
+",DMart 77.12
+ Add to Cart,DMart 67.12
+"
+
+0
+",DMart 75.12
+Premia Iodised Salt : 1 kg,DMart 55.12
+"
+",DMart 51.12
+ Add to Cart,
+"
+
+0
+",
+Mast Mast Premium Jaggery : 900 gms,
+"
+",
+ Add to Cart,
+"
+
+0
+",
+Keshar Premium Natural Jaggery Jar : 900 gms,
+"
+",
+ Add to Cart,
+"
+
+0
+",
+Jaggery : 900 gms,
+"
+",
+ Add to Cart,
+"
+
+0
+",
+X,
+X,
+VIEW CART,
+X,
+NO THANKS,
+ADD ITEMS,
+Ok,
+NO THANKS,
+"YES, ADD ON",
+"No, Thanks",
+"Yes, Proceed",
+NO,
+Skip,
+X,
+ok,
+Detergents,
+Biscuits & Cookies,
+Tea,
+Soaps,
+Diapers & Wipes,
+FAQs,
+Privacy Policy,
+Returns & Refunds,
+Terms & Conditions,
+PuP (Pick up Point),
+PuP (Pick up Point),
+FAQs,
+Returns & Refunds,
+Terms & Conditions,
+Privacy Policy,
+X,
+NO THANKS,
+ADD ITEMS,
+Site Map,
+Privacy Policy,
+Returns & Refunds,
+Terms & Conditions,
